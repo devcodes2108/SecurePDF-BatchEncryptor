@@ -1,3 +1,8 @@
+## 🔗 Try It Online
+
+You can run this notebook directly in your browser using Binder:
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/devcodes2108/SecurePDF-BatchEncryptor/HEAD?urlpath=%2Fdoc%2Ftree%2FPdf_protector.ipynb)
 
 # SecurePDF Batch Encryptor
 
